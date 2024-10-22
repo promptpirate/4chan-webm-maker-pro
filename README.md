@@ -1,6 +1,13 @@
-4chan-webm-maker
+4chan-Webm-Maker Pro
 ================
 A handy little script that automates most steps involved in creating webm's for the 4chan imageboard. It automatically respects 4chan's filesize limitation for webm's and calculates optimal settings for maximum quality. A five year old could make webm's with this.
+
+Updates included now are 
+1 - Ffmpeg is updated
+2 - You can pick if you want audio or not
+
+Updates planned are;
+1 - Batch splitting larger files into webms instead of trying to convert/compress, so instead of a conversion failing or the size being too large, it'll cap each part of the video at the maximum filesize for 4chan and make as many as needed.
 
 Features
 --------
@@ -22,3 +29,5 @@ Usage
 Dependencies
 ------------
 - ffmpeg ( included )
+
+Go to the Releases section for the code
