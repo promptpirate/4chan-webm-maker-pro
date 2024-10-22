@@ -28,6 +28,6 @@ Usage
 
 Dependencies
 ------------
-- ffmpeg ( included )
+- ffmpeg ( Included, but its an old version, so just find the newest version of ffmpeg on your computer or download it, and replace this one with that one. It fixes some codex issues if you do )
 
 Go to the Releases section for the code
